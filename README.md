@@ -233,3 +233,4 @@ some examples of more complicated structures!
 - [Ruby Documentation on Hashes](https://ruby-doc.org/core-2.5.1/Hash.html)
 
 [rand]: https://ruby-doc.org/core-2.5.0/Random.html
+# Phase3WorkingWithHashes
